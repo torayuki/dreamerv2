@@ -1,0 +1,7 @@
+atari_py
+opensimplex==0.3
+numpy==1.19.2
+crafter
+dm_control
+ruamel.yaml==0.16.13
+tensorflow_probability==0.12.2

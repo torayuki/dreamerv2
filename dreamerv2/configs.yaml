@@ -1,6 +1,7 @@
 defaults:
 
   # Train Script
+  gpu_id: 0
   logdir: /dev/null
   seed: 0
   task: dmc_walker_walk
